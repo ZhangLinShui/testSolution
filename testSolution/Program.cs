@@ -17,7 +17,7 @@ namespace testSolution
             class1.PrintMy();
 
             Console.WriteLine("Solution 改变");
-
+            Console.WriteLine("netcoreapp3.3");
         }
     }
 }
