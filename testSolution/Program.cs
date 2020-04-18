@@ -4,12 +4,15 @@ namespace testSolution
 {
     class Program
     {
+        static Class2 class2 = new Class2();
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!"); Console.WriteLine("Hello World!"); Console.WriteLine("Hello World!");
 
             Console.WriteLine("你好  世界");
+
+            class2.PrintMy2();
         }
     }
 }
