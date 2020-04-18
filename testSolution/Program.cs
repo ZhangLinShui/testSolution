@@ -15,7 +15,9 @@ namespace testSolution
 
             class2.PrintMy2();
             class1.PrintMy();
-            
+
+            Console.WriteLine("Solution 改变");
+
         }
     }
 }
