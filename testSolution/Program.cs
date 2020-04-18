@@ -8,6 +8,8 @@ namespace testSolution
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Hello World!"); Console.WriteLine("Hello World!"); Console.WriteLine("Hello World!");
+
+            Console.WriteLine("你好  世界");
         }
     }
 }
