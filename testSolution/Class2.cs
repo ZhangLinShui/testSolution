@@ -19,5 +19,9 @@ namespace testSolution
         {
             Console.WriteLine("Class2      PrintMy2()");
         }
+        public void PrintMy6()
+        {
+            Console.WriteLine("Class2      PrintMy2()");
+        }
     }
 }
