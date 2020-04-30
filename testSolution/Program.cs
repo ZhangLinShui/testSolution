@@ -18,6 +18,10 @@ namespace testSolution
 
             Console.WriteLine("Solution 改变");
             Console.WriteLine("netcoreapp3.3");
+            Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3"); Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3"); Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3");
         }
     }
 }
