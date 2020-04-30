@@ -20,13 +20,33 @@ namespace testSolution
             ()
         {
             Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
         }
         public void PrintMy5()
         {
             Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
         }
         public void PrintMy6()
         {
+            // 4 9 16 25
+            // 4 9 16 25
+            // 4 9 16 25
+            // 4 9 16 25
+            // 4 9 16 25
+            // 4 9 16 25
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
         }
     }
