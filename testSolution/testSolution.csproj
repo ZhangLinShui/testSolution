@@ -8,4 +8,13 @@
     <TargetFramework>netcoreapp2.8</TargetFramework>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="02\" />
+    <Folder Include="33 - 复制%282%29\" />
+    <Folder Include="33 - 复制%283%29\" />
+    <Folder Include="33 - 复制%284%29\" />
+    <Folder Include="33 - 复制\" />
+    <Folder Include="33\" />
+  </ItemGroup>
 </Project>
