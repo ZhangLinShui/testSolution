@@ -23,14 +23,10 @@ namespace testSolution
         }
         public void PrintMy5()
         {
-            Console.WriteLine("Class2      PrintMy2()")
-                Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
         }
         public void PrintMy6()
         {
-            Console.WriteLine("Class2      PrintMy2()");
-            Console.WriteLine("Class2      PrintMy2()");
-            Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
         }
     }

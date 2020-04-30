@@ -9,12 +9,6 @@ namespace testSolution
         public void PrintMy()
         {
             Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
-            Console.WriteLine("Class1      PrintMy()");
         }
     }
 }
