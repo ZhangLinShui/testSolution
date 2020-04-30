@@ -8,4 +8,8 @@
     <TargetFramework>netcoreapp2.8</TargetFramework>
     <TargetFramework>netcoreapp3.1</TargetFramework>
   </PropertyGroup>
+
+  <ItemGroup>
+    <Folder Include="新文件夹\" />
+  </ItemGroup>
 </Project>
