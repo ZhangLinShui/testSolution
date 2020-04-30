@@ -74,6 +74,13 @@ namespace testSolution
 
             //Console.ReadLine();
 
+            Console.ReadLine();
+            Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3");
+            Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3"); Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3"); Console.WriteLine("Solution 改变");
+            Console.WriteLine("netcoreapp3.3");
             int[] numbers = { 2, 3, 4, 5 };
             var squaredNumbers = numbers.Select(x => x * x);
             Console.WriteLine(string.Join(" ", squaredNumbers));

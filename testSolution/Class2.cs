@@ -28,6 +28,8 @@ namespace testSolution
         }
         public void PrintMy5()
         {
+            Console.WriteLine("Class2      PrintMy2()")
+                Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
@@ -43,6 +45,9 @@ namespace testSolution
             // 4 9 16 25
             // 4 9 16 25
             // 4 9 16 25
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
+            Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
