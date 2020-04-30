@@ -28,7 +28,7 @@ namespace testSolution
         }
         public void PrintMy5()
         {
-            Console.WriteLine("Class2      PrintMy2()")
+            Console.WriteLine("Class2      PrintMy2()");
                 Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
             Console.WriteLine("Class2      PrintMy2()");
